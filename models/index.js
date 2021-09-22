@@ -4,5 +4,4 @@ module.exports = {
   role: require(`./role`),
   verificationCode: require(`./verification-code`),
   users: require(`./user`),
-  hospitals: require('./hospital')
 };

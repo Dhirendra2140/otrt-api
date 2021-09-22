@@ -47,7 +47,25 @@ module.exports = {
     `/users/generateCode`
   ],
 
- 
+  superAdmin: [
+    `/manufacturers/*`,
+    `/users/*`,
+    `/hospitals/*`
+  ],
+  hospitalAdmin: [
+    `/manufacturers/createPart`,
+    `/manufacturers/printQRcodes`
+  ],
+
+  hospitalUser: [
+    `/users/login`,
+    `/users/signup`
+  ],
+
+  manufacturer: [
+    `/manufacturers/createPart`,
+    `/manufacturers/printQRcodes`
+  ],
 
   appLinks: {
     iPhone: `YOUR_iOS_APP_APPSTORE_LINK`,
