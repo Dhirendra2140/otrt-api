@@ -86,3 +86,70 @@
 {"message":"POST /users/login 200 - 199.897 ms","level":"info","timestamp":"2021-09-22T04:13:48.216Z"}
 {"message":"GET /users/getAll 200 - 14.904 ms","level":"info","timestamp":"2021-09-22T04:14:28.278Z"}
 {"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T04:45:08.215Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T06:54:15.946Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T07:00:26.339Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T07:08:43.825Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T07:09:37.598Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T07:12:24.540Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T07:12:44.566Z"}
+{"message":"No user role data found in the database","level":"error","timestamp":"2021-09-22T07:14:56.268Z"}
+{"message":"POST /users/signup 400 - 266.248 ms","level":"info","timestamp":"2021-09-22T07:14:56.286Z"}
+{"message":"POST /users/signup - - - ms","level":"info","timestamp":"2021-09-22T07:24:49.277Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-22T07:24:53.176Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T07:50:07.144Z"}
+{"message":"POST /users/signup - - - ms","level":"info","timestamp":"2021-09-22T08:54:01.941Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.users index: basic.email_1 dup key: { : \"hospital09@gmail.com\" }","op":{"basic":{"isActive":false,"profileImageURL":"/public/images/profiles/default.png","roles":[{"_id":"614aef417844f8164cebc696","role":"614ad9179a22e4f4c0836f9b","name":"Dentist"}],"mobileNumber":"","firstName":"hospital","lastName":"indore","email":"hospital09@gmail.com","password":"$2a$10$7oxVpERPZahyr0J0STrG../1BBkqXcCn.nuRNZSN8DYzW7i6yLo5u"},"isActive":true,"userStatus":"Not Verified","positionImages":[],"sessionStatus":"","programName":"","_id":"614aef417844f8164cebc695","createdAt":"2021-09-22T08:54:25.942Z","updatedAt":"2021-09-22T08:54:25.942Z","__v":0}}
+{"message":"POST /users/signup 400 - 420.250 ms","level":"info","timestamp":"2021-09-22T08:54:26.347Z"}
+{"message":"POST /users/signup 200 - 3799.517 ms","level":"info","timestamp":"2021-09-22T08:55:08.393Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T08:56:45.868Z"}
+{"message":"No token is provided","level":"error","timestamp":"2021-09-22T09:01:08.613Z"}
+{"message":"POST /hospitals/signup 401 - 7.199 ms","level":"info","timestamp":"2021-09-22T09:01:08.622Z"}
+{"message":"POST /users/login 200 - 428.289 ms","level":"info","timestamp":"2021-09-22T09:01:52.779Z"}
+{"message":"POST /users/login 200 - 179.390 ms","level":"info","timestamp":"2021-09-22T09:02:24.479Z"}
+{"message":"POST /hospitals/signup 404 - 22.862 ms","level":"info","timestamp":"2021-09-22T09:02:46.475Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.users index: basic.email_1 dup key: { : \"hospital09+2@gmail.com\" }","op":{"basic":{"isActive":false,"profileImageURL":"/public/images/profiles/default.png","roles":[{"_id":"614af156df968218105bf997","role":"614ad9179a22e4f4c0836f9b","name":"Dentist"}],"mobileNumber":"","firstName":"hospital 2","lastName":"indore","email":"hospital09+2@gmail.com","password":"$2a$10$HyVwEYqiitAN3d9ED0mtqewzq2NVrK3W9ExVXZ2p9B/2lLAmzVlFm"},"isActive":true,"userStatus":"Not Verified","positionImages":[],"sessionStatus":"","programName":"","_id":"614af156df968218105bf996","createdAt":"2021-09-22T09:03:18.144Z","updatedAt":"2021-09-22T09:03:18.144Z","__v":0}}
+{"message":"POST /hospitals/save 400 - 1226.404 ms","level":"info","timestamp":"2021-09-22T09:03:18.334Z"}
+{"message":"POST /hospitals/save 200 - 3930.271 ms","level":"info","timestamp":"2021-09-22T09:03:33.752Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T09:07:09.214Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T09:10:19.091Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T09:10:36.908Z"}
+{"message":"GET /hospitals/getAll 404 - 56.963 ms","level":"info","timestamp":"2021-09-22T09:11:53.365Z"}
+{"message":"GET /hospitals/getAll 404 - 12.853 ms","level":"info","timestamp":"2021-09-22T09:12:25.328Z"}
+{"message":"GET /hospitals/getAll 404 - 10.867 ms","level":"info","timestamp":"2021-09-22T09:13:02.049Z"}
+{"message":"GET /users/getAll 200 - 1090.044 ms","level":"info","timestamp":"2021-09-22T09:14:06.633Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T11:33:31.674Z"}
+{"message":"GET /hospitals/getAll 500 - 516.931 ms","level":"info","timestamp":"2021-09-22T11:34:43.366Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T11:36:40.071Z"}
+{"message":"GET /hospitals/getAll 200 - 2170.490 ms","level":"info","timestamp":"2021-09-22T11:36:48.138Z"}
+{"message":"POST /hospitals/login 200 - 337.799 ms","level":"info","timestamp":"2021-09-22T11:39:21.927Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T11:45:46.105Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T11:49:56.989Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T11:54:00.241Z"}
+{"message":"Error while getting data","level":"error","timestamp":"2021-09-22T11:54:32.419Z"}
+{"message":"POST /hospitals/save 400 - 79.230 ms","level":"info","timestamp":"2021-09-22T11:54:32.428Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T11:57:11.930Z"}
+{"message":"Error while getting data","level":"error","timestamp":"2021-09-22T11:57:22.617Z"}
+{"message":"POST /hospitals/save 400 - 75.515 ms","level":"info","timestamp":"2021-09-22T11:57:22.627Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T12:01:00.688Z"}
+{"message":"Error while getting data","level":"error","timestamp":"2021-09-22T12:02:26.027Z"}
+{"message":"POST /hospitals/save 400 - 77.207 ms","level":"info","timestamp":"2021-09-22T12:02:26.037Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T12:10:07.013Z"}
+{"message":"Error while getting data","level":"error","timestamp":"2021-09-22T12:10:11.334Z"}
+{"message":"POST /hospitals/save 400 - 314.637 ms","level":"info","timestamp":"2021-09-22T12:10:11.350Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T12:12:08.944Z"}
+{"message":"POST /hospitals/save 200 - 4707.767 ms","level":"info","timestamp":"2021-09-22T12:12:18.333Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.hospitals index: Hospitalcode_1 dup key: { : null }","op":{"basic":{"isActive":false,"profileImageURL":"/public/images/profiles/default.png","roles":[{"_id":"614b1dda07aa2a20b44f9714","role":"614ad9179a22e4f4c0836f9b","name":"Dentist"}],"mobileNumber":"","firstName":"hospital 2","lastName":"bhopal","email":"hospital09+4@gmail.com","password":"$2a$10$1k1N2kr64M6ln.RpfluAeuDpuB07jiSPubQN0DqKJx.puLTGNTx1q"},"isActive":true,"userStatus":"Not Verified","positionImages":[],"sessionStatus":"","programName":"","_id":"614b1dda07aa2a20b44f9713","createdAt":"2021-09-22T12:13:14.252Z","updatedAt":"2021-09-22T12:13:14.252Z","__v":0}}
+{"message":"POST /hospitals/save 400 - 382.409 ms","level":"info","timestamp":"2021-09-22T12:13:14.618Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.hospitals index: Hospitalcode_1 dup key: { : null }","op":{"basic":{"isActive":false,"profileImageURL":"/public/images/profiles/default.png","roles":[{"_id":"614b1de207aa2a20b44f9716","role":"614ad9179a22e4f4c0836f9b","name":"Dentist"}],"mobileNumber":"","firstName":"hospital 2","lastName":"bhopal","email":"hospital09+5@gmail.com","password":"$2a$10$DWywVtKB9vcarsrfxlequ.cZNIvrkoLl0/3dXrph0UcNyH46byWue"},"isActive":true,"userStatus":"Not Verified","positionImages":[],"sessionStatus":"","programName":"","_id":"614b1de207aa2a20b44f9715","createdAt":"2021-09-22T12:13:22.973Z","updatedAt":"2021-09-22T12:13:22.973Z","__v":0}}
+{"message":"POST /hospitals/save 400 - 180.230 ms","level":"info","timestamp":"2021-09-22T12:13:23.137Z"}
+{"message":"POST /hospitals/save 200 - 4487.746 ms","level":"info","timestamp":"2021-09-22T12:15:28.513Z"}
+{"message":"POST /hospitals/save 200 - 3904.144 ms","level":"info","timestamp":"2021-09-22T12:15:51.325Z"}
+{"message":"POST /hospitals/save 200 - 4566.505 ms","level":"info","timestamp":"2021-09-22T12:16:12.954Z"}
+{"message":"POST /hospitals/save 200 - 4477.249 ms","level":"info","timestamp":"2021-09-22T12:16:36.838Z"}
+{"message":"User not found","level":"error","timestamp":"2021-09-22T12:17:23.546Z"}
+{"message":"POST /hospitals/login 400 - 14.597 ms","level":"info","timestamp":"2021-09-22T12:17:23.548Z"}
+{"message":"POST /hospitals/login 200 - 218.304 ms","level":"info","timestamp":"2021-09-22T12:17:36.699Z"}
+{"message":"GET /hospitals/getAll 500 - 12.099 ms","level":"info","timestamp":"2021-09-22T12:18:09.576Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-22T12:19:36.449Z"}
+{"message":"GET /hospitals/getAll 200 - 91.942 ms","level":"info","timestamp":"2021-09-22T12:19:42.752Z"}
+{"message":"GET /hospitals/getAll 200 - 17.876 ms","level":"info","timestamp":"2021-09-22T12:19:59.731Z"}

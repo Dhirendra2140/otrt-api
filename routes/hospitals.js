@@ -2,13 +2,22 @@ const express = require('express');
 const Router = express.Router();
 
 const hospitalController = require(`../controllers/hospital.controller`);
-const hospitalValidator = require(`../validators/index`);
+const { hospitalValidator } = require(`../validators/index`);
 
 
-Router.post(`/save` , hospitalValidator.hospitalValidator.validateHospital, hospitalController.saveHospital);
+Router.post(`/save` , hospitalValidator.validateHospital, hospitalController.signUp);
 
-Router.get('/', hospitalController.getAll);
+Router.post(`/login`, hospitalValidator['authToken'] , hospitalController.login);
 
-Router.put('/update/:id', hospitalController.updateById);
+Router.get('/logout', hospitalValidator['logout'] , hospitalController.logout);
+
+Router.put(`/changePassword`, hospitalValidator['changePassword'] , hospitalController.changePassword);
+
+Router.put('/', hospitalValidator['editProfile'] , hospitalController.editUserProfile);
+
+Router.post('/generateCode', hospitalValidator['generateCode'] , hospitalController.generateCodeForForgotPassword);
+
+Router.get('/getAll' , hospitalController.getAllHospitals);
+
 
 module.exports = Router;

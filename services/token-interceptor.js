@@ -58,7 +58,8 @@ module.exports = {
                 req.decoded = decoded;
                 req.user = user;
                 req.roles = user.basic.roles.map(role => role.role[`name`]);
-
+                
+                // how to fatch incoming path
                 console.log(" roles is ===>>>", req.roles);
                 return next();
             });
