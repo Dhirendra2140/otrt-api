@@ -1,0 +1,41 @@
+{
+  "signUpRoutes": {
+    "post": {
+      "security": [
+        {
+          "Bearer": []
+        }
+      ],
+      "description": "This route will allow user to register in into the application.",
+      "operationId": "signUp",
+      "produces": [
+        "application/json"
+      ],
+      "parameters": [
+        {
+          "name": "signUp Parameters",
+          "in": "body",
+          "description": "The user will be registered into the application",
+          "required": true,
+          "schema": {
+            "$ref": "../definitions/signUpSchema.json#/signUpSchema"
+          }
+        }
+      ],
+      "responses": {
+        "200": {
+          "description": "User is successfully register.",
+          "type": "object"
+        },
+        "400": {
+          "description": "Bad Request",
+          "type": "object"
+        },
+        "401": {
+          "description": "Unauthorized",
+          "type": "object"
+        }
+      }
+    }
+  }
+}

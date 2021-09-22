@@ -1,0 +1,47 @@
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T11:40:02.190Z"}
+{"message":"No user role data found in the database","level":"error","timestamp":"2021-09-16T11:41:32.537Z"}
+{"message":"POST /users/signup 400 - 41.076 ms","level":"info","timestamp":"2021-09-16T11:41:32.548Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-16T11:46:38.920Z"}
+{"message":"POST /users/signup 400 - 3060.324 ms","level":"info","timestamp":"2021-09-16T11:46:38.926Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T11:50:33.916Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-16T11:50:42.382Z"}
+{"message":"POST /users/signup 400 - 2516.235 ms","level":"info","timestamp":"2021-09-16T11:50:42.395Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:20:48.808Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:22:57.998Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:26:51.607Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-16T12:28:24.882Z"}
+{"message":"POST /users/signup 400 - 1809.361 ms","level":"info","timestamp":"2021-09-16T12:28:24.896Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:29:16.849Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:32:36.075Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.users index: basic.email_1 dup key: { : \"dhirendra.pathak@gmail.com\" }","op":{"updatedAt":"2021-09-16T12:32:45.640Z","createdAt":"2021-09-16T12:32:45.640Z","_id":"6143396d40391d1e98b2e185","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"dhirendra","lastName":"pathak","email":"dhirendra.pathak@gmail.com","password":"$2a$10$hFSHZKfpB0kRv2sBeQcKIuNkp72z8bZkVuPmfLP1HB5fIfkUJFhm6","mobileNumber":"","roles":[{"role":"61432dc627545331eef2d7b6","name":"superAdmin","_id":"6143396d40391d1e98b2e186"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+{"message":"POST /users/signup 400 - 477.613 ms","level":"info","timestamp":"2021-09-16T12:32:46.087Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:39:41.763Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.users index: basic.email_1 dup key: { : \"dhirendra.pathak@gmail.com\" }","op":{"updatedAt":"2021-09-16T12:39:46.560Z","createdAt":"2021-09-16T12:39:46.560Z","_id":"61433b122f33e02068c5d953","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"dhirendra","lastName":"pathak","email":"dhirendra.pathak@gmail.com","password":"$2a$10$.ZJml2hanJArlGGP4HXIAe1drYkF4n85lQOHMJYllm15xsy7/x6Py","mobileNumber":"","roles":[{"role":"61432dc627545331eef2d7b6","name":"superAdmin","_id":"61433b122f33e02068c5d954"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+{"message":"POST /users/signup 400 - 315.979 ms","level":"info","timestamp":"2021-09-16T12:39:46.783Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:42:15.327Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:44:44.750Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.users index: basic.email_1 dup key: { : \"dhirendrapathak09@gmail.com\" }","op":{"updatedAt":"2021-09-16T12:44:51.927Z","createdAt":"2021-09-16T12:44:51.927Z","_id":"61433c43ff940b236861b20c","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"virendra","lastName":"pathak","email":"dhirendrapathak09@gmail.com","password":"$2a$10$WVtZF/lKnWIoW8HMhydmk.pjHP42UpCCoznQJhqMjeIwiQoHzkc9y","mobileNumber":"","roles":[{"role":"61432dc627545331eef2d7b6","name":"superAdmin","_id":"61433c43ff940b236861b20d"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+{"message":"POST /users/signup 400 - 242.971 ms","level":"info","timestamp":"2021-09-16T12:44:52.133Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-16T12:45:20.959Z"}
+{"message":"POST /users/signup 400 - 1475.743 ms","level":"info","timestamp":"2021-09-16T12:45:20.963Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:45:57.549Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:46:08.782Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-16T12:46:34.477Z"}
+{"message":"POST /users/signup 400 - 1763.844 ms","level":"info","timestamp":"2021-09-16T12:46:34.491Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T12:50:27.879Z"}
+{"message":"No token is provided","level":"error","timestamp":"2021-09-16T12:50:45.697Z"}
+{"message":"GET /users/getAll 401 - 10.666 ms","level":"info","timestamp":"2021-09-16T12:50:45.711Z"}
+{"message":"POST /users/login 200 - 835.207 ms","level":"info","timestamp":"2021-09-16T12:52:23.727Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-16T12:53:21.044Z"}
+{"message":"GET /users/getAll 400 - 450.477 ms","level":"info","timestamp":"2021-09-16T12:53:21.051Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-16T12:54:29.698Z"}
+{"message":"GET /users/getAll 400 - 11.582 ms","level":"info","timestamp":"2021-09-16T12:54:29.700Z"}
+{"message":"No token is provided","level":"error","timestamp":"2021-09-16T12:54:39.905Z"}
+{"message":"GET /users/getAll 401 - 1.089 ms","level":"info","timestamp":"2021-09-16T12:54:39.907Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-16T12:54:51.231Z"}
+{"message":"GET /users/getAll 400 - 10.528 ms","level":"info","timestamp":"2021-09-16T12:54:51.232Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T13:32:03.251Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T13:32:51.507Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-16T13:32:58.352Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-16T13:33:13.250Z"}
+{"message":"POST /users/signup 400 - 1768.398 ms","level":"info","timestamp":"2021-09-16T13:33:13.265Z"}

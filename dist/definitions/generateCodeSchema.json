@@ -1,0 +1,29 @@
+{
+  "generateCodeSchema": {
+    "properties": {
+      "email": {
+        "type": "string",
+        "example": "shridhar.bhande@tudip.nl"
+      }
+    }
+  },
+  "generateCodeSuccessSchema": {
+    "properties": {
+      "access_token": {
+        "type": "string",
+        "example": "eyJraWQ5zdG9ybXBhdGguY29tL3YxL2FwcGxpY2F0aW9ucy82jyd2wV1R3aG9uWko2M3B1YUFzWGtmMVo2I89i0w0ic3ViIs"
+      },
+      "token_type": {
+        "type": "string",
+        "example": "Bearer"
+      },
+      "expires_in": {
+        "type": "integer",
+        "example": 3600
+      },
+      "user": {
+        "$ref": "./completeUserResponseModel.json#/CompleteUserSchema"
+      }
+    }
+  }
+}

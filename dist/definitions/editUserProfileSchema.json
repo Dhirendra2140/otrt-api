@@ -1,0 +1,49 @@
+{
+  "editUserProfileSchema": {
+    "properties": {
+      "first_name": {
+        "type": "string",
+        "example": "Shridhar"
+      },
+      "last_name": {
+        "type": "string",
+        "example": "Bhande"
+      },
+      "zip_code": {
+        "type": "integer",
+        "example": 909090
+      },
+      "mobile_number": {
+        "type": "integer",
+        "example": 9090909090
+      },
+      "profile_image": {
+        "type": "string",
+        "example": "user profile image"
+      },
+      "token": {
+        "type": "string",
+        "example": "---token ---"
+      }
+    }
+  },
+  "editUserProfileSuccessSchema": {
+    "properties": {
+      "access_token": {
+        "type": "string",
+        "example": "eyJraWQ5zdG9ybXBhdGguY29tL3YxL2FwcGxpY2F0aW9ucy82jyd2wV1R3aG9uWko2M3B1YUFzWGtmMVo2I89i0w0ic3ViIs"
+      },
+      "token_type": {
+        "type": "string",
+        "example": "Bearer"
+      },
+      "expires_in": {
+        "type": "integer",
+        "example": 3600
+      },
+      "user": {
+        "$ref": "./completeUserResponseModel.json#/CompleteUserSchema"
+      }
+    }
+  }
+}

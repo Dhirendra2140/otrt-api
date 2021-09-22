@@ -1,0 +1,41 @@
+{
+  "fetchAllUsersRoutes": {
+    "post": {
+      "security": [
+        {
+          "Bearer": []
+        }
+      ],
+      "description": "This route will allow to fetch all users data.",
+      "operationId": "fetchAllUsers",
+      "produces": [
+        "application/json"
+      ],
+      "parameters": [
+        {
+          "name": "edit user profile Parameters",
+          "in": "body",
+          "description": "This route will allow to update user's profile.",
+          "required": true,
+          "schema": {
+            "$ref": "../definitions/fetchAllUsersSchema.json#/fetchAllUsersSchema"
+          }
+        }
+      ],
+      "responses": {
+        "200": {
+          "description": "Fetched all users data successfully.",
+          "type": "object"
+        },
+        "400": {
+          "description": "Bad Request",
+          "type": "object"
+        },
+        "401": {
+          "description": "Unauthorized",
+          "type": "object"
+        }
+      }
+    }
+  }
+}

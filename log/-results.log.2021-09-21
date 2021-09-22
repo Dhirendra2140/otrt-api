@@ -1,0 +1,110 @@
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:14:55.736Z"}
+{"message":"POST /hospitals/save 200 - 469.349 ms","level":"info","timestamp":"2021-09-21T03:16:47.491Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:18:44.281Z"}
+{"message":"POST /hospitals/save 200 - 45.406 ms","level":"info","timestamp":"2021-09-21T03:18:49.715Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:19:23.017Z"}
+{"message":"POST /hospitals/save 400 - 46.991 ms","level":"info","timestamp":"2021-09-21T03:19:28.533Z"}
+{"message":"POST /hospitals/save 400 - 14.172 ms","level":"info","timestamp":"2021-09-21T03:20:12.268Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:20:48.484Z"}
+{"message":"POST /hospitals/save 200 - 47.999 ms","level":"info","timestamp":"2021-09-21T03:20:54.796Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:24:05.589Z"}
+{"message":"POST /hospitals/save 200 - 66.378 ms","level":"info","timestamp":"2021-09-21T03:24:08.704Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:28:48.008Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:29:01.845Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:29:04.779Z"}
+{"message":"POST /hospitals/save 200 - 45.739 ms","level":"info","timestamp":"2021-09-21T03:29:21.064Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:31:52.316Z"}
+{"message":"POST /hospitals/save 200 - 45.723 ms","level":"info","timestamp":"2021-09-21T03:32:03.772Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:33:20.273Z"}
+{"message":"POST /hospitals/save 200 - 68.200 ms","level":"info","timestamp":"2021-09-21T03:33:24.721Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:35:06.337Z"}
+{"message":"POST /hospitals/save 200 - 48.579 ms","level":"info","timestamp":"2021-09-21T03:35:12.026Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:37:59.999Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:38:11.452Z"}
+{"message":"POST /hospitals/save 200 - 49.121 ms","level":"info","timestamp":"2021-09-21T03:38:13.979Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:45:50.190Z"}
+{"message":"POST /hospitals/save 200 - 1235.591 ms","level":"info","timestamp":"2021-09-21T03:45:52.335Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:46:19.120Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:47:02.307Z"}
+{"message":"POST /hospitals/save 200 - 45.210 ms","level":"info","timestamp":"2021-09-21T03:47:05.755Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:47:38.209Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:47:51.049Z"}
+{"message":"POST /hospitals/save 200 - 946.930 ms","level":"info","timestamp":"2021-09-21T03:47:53.186Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:48:19.175Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:49:15.488Z"}
+{"message":"POST /hospitals/save 200 - 133.654 ms","level":"info","timestamp":"2021-09-21T03:49:18.278Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:50:09.308Z"}
+{"message":"POST /hospitals/save 200 - 52.753 ms","level":"info","timestamp":"2021-09-21T03:50:16.429Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:53:28.435Z"}
+{"message":"POST /hospitals/save 200 - 53.749 ms","level":"info","timestamp":"2021-09-21T03:53:31.318Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:54:20.289Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:54:49.168Z"}
+{"message":"POST /hospitals/save 200 - 1282.808 ms","level":"info","timestamp":"2021-09-21T03:54:51.334Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:56:18.121Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:56:38.196Z"}
+{"message":"POST /hospitals/save 200 - 49.598 ms","level":"info","timestamp":"2021-09-21T03:56:42.270Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:57:17.300Z"}
+{"message":"POST /hospitals/save 200 - 98.002 ms","level":"info","timestamp":"2021-09-21T03:57:27.516Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:59:45.695Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T03:59:55.468Z"}
+{"message":"POST /hospitals/save 200 - 49.435 ms","level":"info","timestamp":"2021-09-21T03:59:58.899Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:00:38.232Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:00:43.900Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:01:19.669Z"}
+{"message":"POST /hospitals/save 200 - 915.312 ms","level":"info","timestamp":"2021-09-21T04:01:21.804Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:02:56.294Z"}
+{"message":"POST /hospitals/save 200 - 58.719 ms","level":"info","timestamp":"2021-09-21T04:02:59.060Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:03:31.887Z"}
+{"message":"POST /hospitals/save 200 - 46.685 ms","level":"info","timestamp":"2021-09-21T04:03:38.750Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:05:03.390Z"}
+{"message":"POST /hospitals/save 200 - 64.642 ms","level":"info","timestamp":"2021-09-21T04:05:07.736Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:08:21.846Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:08:45.794Z"}
+{"message":"POST /hospitals/save 200 - 55.000 ms","level":"info","timestamp":"2021-09-21T04:08:49.812Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:11:15.856Z"}
+{"message":"POST /hospitals/save 200 - 88.188 ms","level":"info","timestamp":"2021-09-21T04:11:34.533Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:12:26.592Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:15:20.257Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:16:29.374Z"}
+{"message":"POST /hospitals/ 404 - 50.698 ms","level":"info","timestamp":"2021-09-21T04:16:37.547Z"}
+{"message":"GET /hospitals/ 200 - 18.100 ms","level":"info","timestamp":"2021-09-21T04:17:41.682Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:19:06.137Z"}
+{"message":"GET /hospitals/ 500 - 1344.930 ms","level":"info","timestamp":"2021-09-21T04:19:08.251Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:20:10.740Z"}
+{"message":"GET /hospitals/ 500 - 40.567 ms","level":"info","timestamp":"2021-09-21T04:20:15.083Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:22:53.819Z"}
+{"message":"GET /hospitals/ 500 - 34.955 ms","level":"info","timestamp":"2021-09-21T04:22:57.513Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:25:59.234Z"}
+{"message":"GET /hospitals/ 200 - 48.903 ms","level":"info","timestamp":"2021-09-21T04:26:03.245Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:26:48.184Z"}
+{"message":"GET /hospitals/ 200 - 58.506 ms","level":"info","timestamp":"2021-09-21T04:26:51.242Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T04:30:03.263Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T11:32:39.285Z"}
+{"message":"GET /hospitals/ 500 - 591.766 ms","level":"info","timestamp":"2021-09-21T11:33:05.966Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T11:34:14.320Z"}
+{"message":"GET /hospitals/ 500 - 41.446 ms","level":"info","timestamp":"2021-09-21T11:34:21.163Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T11:34:44.843Z"}
+{"message":"GET /hospitals/ 200 - 51.289 ms","level":"info","timestamp":"2021-09-21T11:34:51.396Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T15:18:58.639Z"}
+{"message":"POST /hospitals/save 500 - 389.369 ms","level":"info","timestamp":"2021-09-21T15:19:54.285Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T15:22:08.670Z"}
+{"message":"POST /hospitals/save 200 - 54.187 ms","level":"info","timestamp":"2021-09-21T15:22:18.040Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T15:29:52.437Z"}
+{"message":"POST /hospitals/save 200 - 45.776 ms","level":"info","timestamp":"2021-09-21T15:29:59.622Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T15:32:01.118Z"}
+{"message":"POST /hospitals/save 200 - 80.195 ms","level":"info","timestamp":"2021-09-21T15:32:08.954Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T16:47:05.994Z"}
+{"message":"POST /hospitals/save 200 - 60.524 ms","level":"info","timestamp":"2021-09-21T16:47:59.798Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T16:49:48.103Z"}
+{"message":"POST /hospitals/save 200 - 382.041 ms","level":"info","timestamp":"2021-09-21T16:49:50.208Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T16:52:47.839Z"}
+{"message":"POST /hospitals/save 200 - 45.292 ms","level":"info","timestamp":"2021-09-21T16:52:53.500Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T16:54:34.995Z"}
+{"message":"POST /hospitals/save - - - ms","level":"info","timestamp":"2021-09-21T16:54:46.583Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T16:57:03.347Z"}
+{"message":"POST /hospitals/save 200 - 404.443 ms","level":"info","timestamp":"2021-09-21T16:57:07.686Z"}
+{"message":"POST /hospitals/save 200 - 37.164 ms","level":"info","timestamp":"2021-09-21T16:57:30.978Z"}
+{"message":"POST /hospitals/save 200 - 24.192 ms","level":"info","timestamp":"2021-09-21T16:58:05.513Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T16:59:33.559Z"}
+{"message":"POST /hospitals/save 200 - 186.265 ms","level":"info","timestamp":"2021-09-21T16:59:41.416Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-21T17:04:16.350Z"}

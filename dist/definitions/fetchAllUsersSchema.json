@@ -1,0 +1,41 @@
+{
+  "fetchAllUsersSchema": {
+    "properties": {
+      "limit": {
+        "type": "integer",
+        "example": 0
+      },
+      "page_no": {
+        "type": "integer",
+        "example": 0
+      },
+      "pattern": {
+        "type": "string",
+        "example": "search value here"
+      },
+      "token": {
+        "type": "string",
+        "example": "---token ---"
+      }
+    }
+  },
+  "fetchAllUsersSuccessSchema": {
+    "properties": {
+      "access_token": {
+        "type": "string",
+        "example": "eyJraWQ5zdG9ybXBhdGguY29tL3YxL2FwcGxpY2F0aW9ucy82jyd2wV1R3aG9uWko2M3B1YUFzWGtmMVo2I89i0w0ic3ViIs"
+      },
+      "token_type": {
+        "type": "string",
+        "example": "Bearer"
+      },
+      "expires_in": {
+        "type": "integer",
+        "example": 3600
+      },
+      "user": {
+        "$ref": "./completeUserResponseModel.json#/CompleteUserSchema"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "signUpSchema": {
+    "properties": {
+      "firstName": {
+        "type": "string",
+        "example": "Shridhar"
+      },
+      "lastName": {
+        "type": "string",
+        "example": "Bhande"
+      },
+      "email": {
+        "type": "string",
+        "example": "shridhar.bhande@tudip.nl"
+      },
+      "password": {
+        "type": "string",
+        "example": "tudip123"
+      },
+      "roleName": {
+        "type": "string",
+        "example": "admin"
+      }
+    }
+  },
+  "signUpSuccessSchema": {
+    "properties": {
+      "access_token": {
+        "type": "string",
+        "example": "eyJraWQ5zdG9ybXBhdGguY29tL3YxL2FwcGxpY2F0aW9ucy82jyd2wV1R3aG9uWko2M3B1YUFzWGtmMVo2I89i0w0ic3ViIs"
+      },
+      "token_type": {
+        "type": "string",
+        "example": "Bearer"
+      },
+      "expires_in": {
+        "type": "integer",
+        "example": 3600
+      },
+      "user": {
+        "$ref": "./completeUserResponseModel.json#/CompleteUserSchema"
+      }
+    }
+  }
+}

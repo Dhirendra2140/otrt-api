@@ -1,0 +1,65 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "$ref": "./info/index.json"
+  },
+  "basePath": "",
+  "tags": [
+    {
+      "name": "Home",
+      "description": "Node Stack API"
+    }
+  ],
+  "schemes": [
+    "http"
+  ],
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "securityDefinitions": {
+    "Bearer": {
+      "type": "apiKey",
+      "name": "api_key",
+      "in": "header"
+    },
+    "appId": {
+      "type": "apiKey",
+      "in": "header",
+      "name": "token"
+    }
+  },
+  "paths": {
+    "/users/login": {
+      "$ref": "../path/logInPath.json#/logInRoutes"
+    },
+
+    "/users/signup": {
+      "$ref": "../path/signUpPath.json#/signUpRoutes"
+    },
+
+    "/users/generateCode": {
+      "$ref": "../path/generateCodePath.json#/generateCodeRoutes"
+    },
+
+    "/users/forgotPassword": {
+      "$ref": "../path/forgotPasswordPath.json#/forgotPasswordRoutes"
+    },
+
+    "/users/changePassword": {
+      "$ref": "../path/changePasswordPath.json#/changePasswordRoutes"
+    },
+
+    "/users/editUserProfile": {
+      "$ref": "../path/editUserProfilePath.json#/editUserProfileRoutes"
+    },
+
+    "/users/fetchAllUsers": {
+      "$ref": "../path/fetchAllUsersPath.json#/fetchAllUsersRoutes"
+    }
+  },
+  "definitions": {
+  }
+}

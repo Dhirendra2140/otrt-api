@@ -1,0 +1,120 @@
+{
+  "notFoundError": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "No records found."
+      }
+    }
+  },
+  "unauthorizedAccessError": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "Unauthorized access"
+      }
+    }
+  },
+  "internalServerError": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "Internal server error"
+      }
+    }
+  },
+  "invalidUserName": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "User is not available, Please register."
+      }
+    }
+  },
+  "invalidPassword": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "Wrong password."
+      }
+    }
+  },
+  "badRequestForUserRegistration": {
+    "properties": {
+      "message1": {
+        "required": true,
+        "type": "string",
+        "example": "Values for these field are required. It cannot be null, empty, or blank."
+      },
+      "message2": {
+        "required": true,
+        "type": "string",
+        "example": "Password format is not valid . It must at least 1 lowercase alphabetical character, at least 1 uppercase alphabetical character, at least 1 numeric character, at least one special character and must be eight characters or longer."
+      }
+    }
+  },
+  "conflict": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "Account with that email already exists.  Please choose another email."
+      }
+    }
+  },
+  "profileNotFoundError": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "profile not found"
+      }
+    }
+  },
+  "resendEmailError": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "Unable to resend verification email."
+      }
+    }
+  },
+  "badRequestError": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "Bad request, Please give correct information."
+      }
+    }
+  },
+  "logInRequestError": {
+    "properties": {
+      "message1": {
+        "required": true,
+        "type": "string",
+        "example": "Bad request, Please give correct information.",
+      },
+      "message2": {
+        "required": true,
+        "type": "string",
+        "example": "User is not available, Please register."
+      }
+    }
+  },
+  "payloadTooLargeError": {
+    "properties": {
+      "message": {
+        "required": true,
+        "type": "string",
+        "example": "request entity too large."
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "editUserProfileRoutes": {
+    "post": {
+      "security": [
+        {
+          "Bearer": []
+        }
+      ],
+      "description": "This route will allow to update user's profile.",
+      "operationId": "editUserProfile",
+      "produces": [
+        "application/json"
+      ],
+      "parameters": [
+        {
+          "name": "edit user profile Parameters",
+          "in": "body",
+          "description": "This route will allow to update user's profile.",
+          "required": true,
+          "schema": {
+            "$ref": "../definitions/editUserProfileSchema.json#/editUserProfileSchema"
+          }
+        }
+      ],
+      "responses": {
+        "200": {
+          "description": "User's profile updated successfully",
+          "type": "object"
+        },
+        "400": {
+          "description": "Bad Request",
+          "type": "object"
+        },
+        "401": {
+          "description": "Unauthorized",
+          "type": "object"
+        }
+      }
+    }
+  }
+}

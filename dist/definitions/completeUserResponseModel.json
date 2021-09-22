@@ -1,0 +1,98 @@
+{
+  "CompleteUserSchema": {
+    "properties": {
+      "first_name": {
+        "required": false,
+        "type": "string",
+        "example": "Shridhar"
+      },
+      "last_name": {
+        "required": false,
+        "type": "string",
+        "example": "Bhande"
+      },
+      "email": {
+        "required": false,
+        "type": "string",
+        "example": "shridhar.bhande@tudip.nl"
+      },
+      "phone_number": {
+        "required": false,
+        "type": "string",
+        "example": "9049834748"
+      },
+      "id": {
+        "required": false,
+        "type": "integer",
+        "example": 1
+      },
+      "createdAt": {
+        "required": false,
+        "type": "string",
+        "format": "date-time",
+        "example": "2017-06-30T05:56:37.000Z"
+      },
+      "updatedAt": {
+        "required": false,
+        "type": "string",
+        "format": "date-time",
+        "example": "2017-06-30T05:19:20.000Z"
+      },
+      "roles": {
+        "required": false,
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "example": [
+          2
+        ]
+      },
+      "user_id": {
+        "required": false,
+        "type": "integer",
+        "example": 1
+      },
+      "middlename": {
+        "required": false,
+        "type": "string",
+        "example": "Ashok"
+      },
+      "address_line1": {
+        "required": false,
+        "type": "string",
+        "example": "Massachusetts"
+      },
+      "address_line2": {
+        "required": false,
+        "type": "string",
+        "example": "CAl"
+      },
+      "city": {
+        "required": false,
+        "type": "string",
+        "example": "Suffolk County"
+      },
+      "state": {
+        "required": false,
+        "type": "string",
+        "example": "Massachusetts"
+      },
+      "postal": {
+        "required": false,
+        "type": "string",
+        "example": "90001"
+      },
+      "country": {
+        "required": false,
+        "type": "string",
+        "example": "United States"
+      },
+      "profile_img": {
+        "required": false,
+        "type": "string",
+        "example": "images/usersprofileimages/1.jpeg"
+      }
+    }
+  }
+}

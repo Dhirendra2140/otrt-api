@@ -1,0 +1,50 @@
+{
+  "logInRoutes": {
+    "post": {
+      "security": [
+        {
+          "Bearer": []
+        }
+      ],
+      "description": "This route will allow user to log in into the application. Roles allowed for this route : (2, student), (3, tutor).",
+      "operationId": "logIn",
+      "produces": [
+        "application/json"
+      ],
+      "parameters": [
+        {
+          "name": "logIn Parameters",
+          "in": "body",
+          "description": "The user will be logged into the application",
+          "required": true,
+          "schema": {
+            "$ref": "../definitions/logInSchema.json#/logInSchema"
+          }
+        }
+      ],
+      "responses": {
+        "200": {
+          "description": "User is successfully logged in.",
+          "type": "object",
+          "schema": {
+            "$ref": "../definitions/logInSchema.json#/logInSuccessSchema"
+          }
+        },
+        "400": {
+          "description": "Bad Request",
+          "type": "object",
+          "schema": {
+            "$ref": "../definitions/errorResponses.json#/logInRequestError"
+          }
+        },
+        "401": {
+          "description": "Unauthorized",
+          "type": "object",
+          "schema": {
+            "$ref": "../definitions/errorResponses.json#/invalidPassword"
+          }
+        }
+      }
+    }
+  }
+}

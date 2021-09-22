@@ -1,0 +1,41 @@
+{
+  "generateCodeRoutes": {
+    "post": {
+      "security": [
+        {
+          "Bearer": []
+        }
+      ],
+      "description": "This route will allow to send verification token.",
+      "operationId": "generateCode",
+      "produces": [
+        "application/json"
+      ],
+      "parameters": [
+        {
+          "name": "generateCode Parameters",
+          "in": "body",
+          "description": "This route will allow to send verification token.",
+          "required": true,
+          "schema": {
+            "$ref": "../definitions/generateCodeSchema.json#/generateCodeSchema"
+          }
+        }
+      ],
+      "responses": {
+        "200": {
+          "description": "Verification token send successfully.",
+          "type": "object"
+        },
+        "400": {
+          "description": "Bad Request",
+          "type": "object"
+        },
+        "401": {
+          "description": "Unauthorized",
+          "type": "object"
+        }
+      }
+    }
+  }
+}

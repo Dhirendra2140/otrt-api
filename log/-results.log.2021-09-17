@@ -1,0 +1,118 @@
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T06:12:04.260Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T06:13:12.955Z"}
+{"message":"POST /users/signup 400 - 3047.251 ms","level":"info","timestamp":"2021-09-17T06:13:12.971Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T06:19:41.902Z"}
+{"message":"POST /users/signup 400 - 1755.865 ms","level":"info","timestamp":"2021-09-17T06:19:41.904Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T06:33:48.633Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T06:36:59.129Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T06:40:38.841Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.users index: basic.email_1 dup key: { : \"dhirendrapathak09@gmail.com\" }","op":{"updatedAt":"2021-09-17T06:40:44.374Z","createdAt":"2021-09-17T06:40:44.374Z","_id":"6144386ce419851148470662","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"dhirendra","lastName":"pathak","email":"dhirendrapathak09@gmail.com","password":"$2a$10$lzQO/Ufk6bloCj8PHzP4s.Su.vxNbjBjHdDF.gzuV/CC8U28/7oXO","mobileNumber":"","roles":[{"role":"61432dc627545331eef2d7b6","name":"superAdmin","_id":"6144386ce419851148470663"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+{"message":"POST /users/signup 400 - 1381.963 ms","level":"info","timestamp":"2021-09-17T06:40:45.739Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T06:54:11.536Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T06:54:20.083Z"}
+{"message":"POST /users/signup 400 - 1536.133 ms","level":"info","timestamp":"2021-09-17T06:54:20.099Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T06:56:39.060Z"}
+{"message":"POST /users/signup 400 - 252.383 ms","level":"info","timestamp":"2021-09-17T06:56:39.062Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T06:57:14.703Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T06:57:22.884Z"}
+{"message":"POST /users/signup 400 - 366.034 ms","level":"info","timestamp":"2021-09-17T06:57:22.894Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T06:58:05.311Z"}
+{"message":"POST /users/signup 400 - 170.452 ms","level":"info","timestamp":"2021-09-17T06:58:05.313Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T06:59:00.343Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T06:59:04.632Z"}
+{"message":"POST /users/signup 400 - 256.455 ms","level":"info","timestamp":"2021-09-17T06:59:04.641Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T07:01:23.083Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T07:01:29.177Z"}
+{"message":"POST /users/signup 400 - 360.592 ms","level":"info","timestamp":"2021-09-17T07:01:29.210Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T07:02:11.471Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T07:02:20.023Z"}
+{"message":"POST /users/signup 400 - 245.468 ms","level":"info","timestamp":"2021-09-17T07:02:20.032Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T07:08:55.874Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T07:09:19.235Z"}
+{"message":"POST /users/signup 400 - 303.126 ms","level":"info","timestamp":"2021-09-17T07:09:19.245Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T07:11:02.719Z"}
+{"message":"ERROR_WHILE_MAIL_SENDING","level":"error","timestamp":"2021-09-17T07:11:27.319Z"}
+{"message":"POST /users/signup 400 - 440.567 ms","level":"info","timestamp":"2021-09-17T07:11:27.336Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T07:20:26.483Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T07:52:44.719Z"}
+{"message":"POST /users/signup 200 - 4068.811 ms","level":"info","timestamp":"2021-09-17T07:52:55.007Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T07:56:11.211Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: getoutside.users index: basic.email_1 dup key: { : \"dhirendrapathak09@gmail.com\" }","op":{"updatedAt":"2021-09-17T07:56:14.746Z","createdAt":"2021-09-17T07:56:14.746Z","_id":"61444a1e92419226bc4d5b23","programName":"","sessionStatus":"","positionImages":[],"userStatus":"Not Verified","isActive":true,"basic":{"firstName":"dhirendra","lastName":"pathak","email":"dhirendrapathak09@gmail.com","password":"$2a$10$daCQaX/b29AGioNUWu5esOzSzXfeP6Y3WNtJTNGAAjmo7WUxsb1Bu","mobileNumber":"","roles":[{"role":"61432dc627545331eef2d7b6","name":"superAdmin","_id":"61444a1e92419226bc4d5b24"}],"profileImageURL":"/public/images/profiles/default.png","isActive":false},"__v":0}}
+{"message":"POST /users/signup 400 - 315.659 ms","level":"info","timestamp":"2021-09-17T07:56:15.025Z"}
+{"message":"POST /users/signup 200 - 3692.242 ms","level":"info","timestamp":"2021-09-17T07:56:41.264Z"}
+{"message":"POST /users/login 200 - 351.762 ms","level":"info","timestamp":"2021-09-17T09:07:16.620Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T09:08:26.218Z"}
+{"message":"GET /users/getAll 400 - 263.670 ms","level":"info","timestamp":"2021-09-17T09:08:26.224Z"}
+{"message":"GET /getAll 404 - 12.429 ms","level":"info","timestamp":"2021-09-17T09:08:59.314Z"}
+{"message":"GET /users/ 404 - 9.976 ms","level":"info","timestamp":"2021-09-17T09:09:54.477Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T09:11:15.614Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T09:12:25.570Z"}
+{"message":"GET /users/getAll 400 - 43.255 ms","level":"info","timestamp":"2021-09-17T09:12:25.578Z"}
+{"message":"GET /users/logout 200 - 12.331 ms","level":"info","timestamp":"2021-09-17T09:18:20.714Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T09:18:34.298Z"}
+{"message":"GET /users/getAll 400 - 10.746 ms","level":"info","timestamp":"2021-09-17T09:18:34.300Z"}
+{"message":"PUT /users/changePassword 200 - 213.771 ms","level":"info","timestamp":"2021-09-17T09:21:21.016Z"}
+{"message":"PUT /users/login 404 - 1.503 ms","level":"info","timestamp":"2021-09-17T09:22:05.194Z"}
+{"message":"POST /users/login 400 - 4.326 ms","level":"info","timestamp":"2021-09-17T09:22:33.574Z"}
+{"message":"Email or Password is not correct","level":"error","timestamp":"2021-09-17T09:22:46.528Z"}
+{"message":"POST /users/login 400 - 173.986 ms","level":"info","timestamp":"2021-09-17T09:22:46.530Z"}
+{"message":"Email or Password is not correct","level":"error","timestamp":"2021-09-17T09:23:14.167Z"}
+{"message":"POST /users/login 400 - 193.457 ms","level":"info","timestamp":"2021-09-17T09:23:14.169Z"}
+{"message":"PUT /users/login 404 - 0.472 ms","level":"info","timestamp":"2021-09-17T09:23:28.711Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T09:24:25.342Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T09:26:01.242Z"}
+{"message":"Email or Password is not correct","level":"error","timestamp":"2021-09-17T09:26:07.708Z"}
+{"message":"POST /users/login 400 - 322.205 ms","level":"info","timestamp":"2021-09-17T09:26:07.715Z"}
+{"message":"POST /users/login 200 - 175.011 ms","level":"info","timestamp":"2021-09-17T09:26:25.935Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T09:29:10.153Z"}
+{"message":"GET /users/getAll 400 - 42.230 ms","level":"info","timestamp":"2021-09-17T09:29:58.534Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T09:34:42.257Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T09:34:55.120Z"}
+{"message":"GET /users/getAll 400 - 198.029 ms","level":"info","timestamp":"2021-09-17T09:34:55.130Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T11:18:01.659Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T11:20:53.764Z"}
+{"message":"GET /users/getAll 400 - 388.957 ms","level":"info","timestamp":"2021-09-17T11:20:53.781Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:10:56.611Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:11:07.617Z"}
+{"message":"GET /users/getAll 400 - 4394.191 ms","level":"info","timestamp":"2021-09-17T12:11:07.649Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:13:26.116Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:13:42.866Z"}
+{"message":"GET /users/getAll 400 - 103.446 ms","level":"info","timestamp":"2021-09-17T12:13:42.930Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:26:09.527Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:26:25.012Z"}
+{"message":"GET /users/getAll 400 - 612.017 ms","level":"info","timestamp":"2021-09-17T12:26:25.024Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:27:54.823Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:29:21.101Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:29:26.834Z"}
+{"message":"GET /users/getAll 400 - 202.486 ms","level":"info","timestamp":"2021-09-17T12:29:26.874Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:35:31.468Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:35:45.128Z"}
+{"message":"GET /users/getAll 400 - 84.646 ms","level":"info","timestamp":"2021-09-17T12:35:45.145Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:38:14.550Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:38:22.462Z"}
+{"message":"GET /users/getAll 400 - 123.470 ms","level":"info","timestamp":"2021-09-17T12:38:22.476Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:39:09.407Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:39:16.041Z"}
+{"message":"GET /users/getAll 400 - 57.633 ms","level":"info","timestamp":"2021-09-17T12:39:16.058Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:40:56.334Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:41:17.776Z"}
+{"message":"GET /users/getAll 400 - 103.723 ms","level":"info","timestamp":"2021-09-17T12:41:17.804Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:43:39.490Z"}
+{"message":"GET /users/getAll 500 - 53.507 ms","level":"info","timestamp":"2021-09-17T12:43:53.967Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:50:26.815Z"}
+{"message":"GET /users/getAll 500 - 85.246 ms","level":"info","timestamp":"2021-09-17T12:50:49.065Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:53:37.860Z"}
+{"message":"GET /users/getAll 500 - 67.226 ms","level":"info","timestamp":"2021-09-17T12:53:42.391Z"}
+{"message":"GET /users/getAll 500 - 15.120 ms","level":"info","timestamp":"2021-09-17T12:53:44.450Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:55:02.773Z"}
+{"message":"GET /users/getAll 500 - 68.174 ms","level":"info","timestamp":"2021-09-17T12:55:07.023Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:57:37.116Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:57:42.784Z"}
+{"message":"GET /users/getAll 400 - 89.015 ms","level":"info","timestamp":"2021-09-17T12:57:42.798Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T12:58:45.501Z"}
+{"name":"MongoError","message":"The 'cursor' option is required, except for aggregate with the explain argument","ok":0,"errmsg":"The 'cursor' option is required, except for aggregate with the explain argument","code":9,"codeName":"FailedToParse","level":"error","timestamp":"2021-09-17T12:58:51.170Z"}
+{"message":"GET /users/getAll 400 - 89.921 ms","level":"info","timestamp":"2021-09-17T12:58:51.183Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T13:00:26.037Z"}
+{"message":"GET /users/getAll 500 - 56.706 ms","level":"info","timestamp":"2021-09-17T13:00:29.886Z"}
+{"message":"Server started at http://localhost:3005","level":"info","timestamp":"2021-09-17T13:02:41.224Z"}
+{"message":"GET /users/getAll 500 - 55.085 ms","level":"info","timestamp":"2021-09-17T13:02:45.272Z"}
